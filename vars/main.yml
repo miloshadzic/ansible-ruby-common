@@ -1,4 +1,6 @@
 ---
+sudo: true
+
 ruby_apt_dependencies:
   - libreadline-dev
   - libssl-dev
